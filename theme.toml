@@ -1,0 +1,20 @@
+name = "basicsite"
+license = "MIT"
+licenselink = "https://github.com/monkeyWzr/hugo-theme-cactus/blob/master/LICENSE"
+description = "SimpleAgar is a simple framework built for mycology information."
+homepage = "https://github.com/currrie/hugo-theme-basicsite"
+demosite = "https://www.simpleagar.org"
+tags = ["blog", "responsive", "clean"]
+features = ["mathjax", "customizable", "color"]
+min_version = "0.55"
+
+# If the theme has a single author
+[author]
+    name = "Jon Currie"
+    homepage = "https://github.com/currrie"
+
+# If porting an existing theme
+[original]
+    author = "Pieter Robberechts"
+    homepage = "https://github.com/probberechts"
+    repo = "https://github.com/probberechts/hexo-theme-cactus"
